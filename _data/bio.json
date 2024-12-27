@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Keoni Minami",
-    "label": "Shidler Undergraduate",
+    "label": "Undergraduate",
     "picture": "https://raw.githubusercontent.com/km17093/km17093.github.io/main/img/pfp.jpg",
     "email": "km284@hawaii.edu",
     "website": "https://km17093.github.io",
-    "summary": "I am studying for a degree in MIS at UH Manoa's Shidler College of Business. I expect to graduate in Spring 2024.",
+    "summary": "",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "km17093", "url": "http://github.com/km17093" }
@@ -18,10 +18,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems",
-      "studyType": "BBA",
-      "startDate": "2020-8-21",
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
       "endDate": "Present",
       "courses": [
       ]
@@ -29,10 +29,10 @@
   ],
   "awards": [
     {
-      "title": "Dean's List",
-      "date": "Spring 2023",
-      "awarder": "UH Manoa",
-      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
