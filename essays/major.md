@@ -4,7 +4,7 @@ type: essay
 title: "Why I chose the MIS major"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-24
-published: true
+published: false
 labels:
   - MIS
 ---
