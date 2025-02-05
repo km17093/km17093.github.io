@@ -1,0 +1,43 @@
+{
+  "basics": {
+    "name": "Keoni Minami",
+    "label": "",
+    "picture": "img/download.png",
+    "email": "",
+    "website": "https://km17093.github.io",
+    "summary": "",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
+    "profiles": [
+      { "network": "", "username": "", "url": "" }
+    ]
+  },
+  "interests": [
+    { "name": "" },
+    { "name": "" },
+    { "name": "" }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
